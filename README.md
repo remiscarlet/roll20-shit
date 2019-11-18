@@ -6,4 +6,4 @@ These macros are not compatible with other character sheets.
 
 ## Sources?
 
-These are based off of the literal roll values used in the character sheet linked above. The macros have been adjusted to work with selected tokens and to use bar1/bar3 for physical/stun wound tracking. 
+These are based off of the literal roll values used in the character sheet linked above. The macros have been adjusted to work with selected tokens and to use bar2/bar3 for physical/stun wound tracking. 
